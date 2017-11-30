@@ -1,7 +1,3 @@
-# Final section; 9, of Modern React/Redux course
-Date: 2017.11.30
-
-
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
